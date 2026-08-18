@@ -107,8 +107,8 @@ power-on to live meters is about five minutes:
 ### 1. On the Pi
 
 ```bash
-git clone https://github.com/DaveEuson/Headroom.git
-cd Headroom
+git clone https://github.com/DaveEuson/YoyuZero.git
+cd YoyuZero
 ./install.sh
 ```
 

@@ -18,8 +18,8 @@ SSH in from your computer (`ssh pi@raspberrypi.local`), then:
 
 ```bash
 sudo apt update
-git clone -b claude/pi-usage-tracker-6mnamz https://github.com/DaveEuson/Headroom.git
-cd Headroom
+git clone https://github.com/DaveEuson/YoyuZero.git
+cd YoyuZero
 ./install.sh
 sudo reboot
 ```
@@ -41,8 +41,8 @@ sends the first reading, and installs itself to run at every login.
 Prefer the script? On the **computer where you use Claude Code** (not the Pi):
 
 ```bash
-git clone -b claude/pi-usage-tracker-6mnamz https://github.com/DaveEuson/Headroom.git
-cd Headroom
+git clone https://github.com/DaveEuson/YoyuZero.git
+cd YoyuZero
 python3 companion/companion.py
 ```
 

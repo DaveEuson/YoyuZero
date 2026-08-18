@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # One-command install on the Pi:
-#   git clone https://github.com/DaveEuson/Headroom.git
-#   cd Headroom && ./install.sh
+#   git clone https://github.com/DaveEuson/YoyuZero.git
+#   cd YoyuZero && ./install.sh
 set -euo pipefail
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
